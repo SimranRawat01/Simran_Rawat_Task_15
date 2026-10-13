@@ -1,1 +1,3 @@
 # Simran_Rawat_Task_15
+in this task i have used different types of function to perform different operations on a dummy array
+also i have learned about spread operator ---> ... 
